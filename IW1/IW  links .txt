@@ -1,0 +1,8 @@
+Deep Learning 
+https://classroom.udacity.com/courses/ud730
+
+3D u-net, 
+
+3D v-net used 
+
+3D medical object segmentation first

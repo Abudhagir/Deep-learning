@@ -1,0 +1,91 @@
+Heart 
+
+Aorta
+
+Lung  is not cvery clear 
+
+
+
+Most of the case its one organ
+
+
+Multi organs 
+
+Boundary may be bit  hard 
+
+
+Boundary loss function  
+
+Training data of heart and liver 
+
+
+Could be similar 
+
+
+Liver alone ----  A + B 
+A is heart 
+
+B is liver 
+
+
+remove liver 
+
+
+
+Idea::: 
+
+SIngle organ - loss function - only for the liver 
+
+
+Multi orgna - loss function - both heart and liver so more loss 
+
+Loss function of A + Los function of B 
+
+
+
+better loss function - results 
+
+
+Loss function is not good enough / parameter tuning can also bad 
+
+
+After loss function - converge  - yes or not 
+
+Uf yes then 
+
+
+Tranfer learning - already learnt some data 0 you leverage it 
+
+
+
+Train heart 
+512*512  = 400  data size 
+Train liver 
+512*512 = 300 data size 
+Train pancreas 
+All 3d
+
+
+Then loss function joint 
+
+
+Loss function -find the library 
+
+
+
+Change of the architecture
+
+how we can change the loss function 
+
+unet,vnet 
+
+Check forums 
+
+
+
+no change in augumentation 
+
+
+
+
+Loss function -
